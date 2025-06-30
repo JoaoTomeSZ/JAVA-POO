@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/exe2/exe2.iml" filepath="$PROJECT_DIR$/exe2/exe2.iml" />
       <module fileurl="file://$PROJECT_DIR$/final_grade/final_grade.iml" filepath="$PROJECT_DIR$/final_grade/final_grade.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcionario/funcionario.iml" filepath="$PROJECT_DIR$/funcionario/funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/membros-estaticos-1/membros-estaticos-1.iml" filepath="$PROJECT_DIR$/membros-estaticos-1/membros-estaticos-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/membros-estaticos-exe/membros-estaticos-exe.iml" filepath="$PROJECT_DIR$/membros-estaticos-exe/membros-estaticos-exe.iml" />
       <module fileurl="file://$PROJECT_DIR$/rectangle/rectangle.iml" filepath="$PROJECT_DIR$/rectangle/rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/teste/teste.iml" filepath="$PROJECT_DIR$/teste/teste.iml" />
     </modules>
